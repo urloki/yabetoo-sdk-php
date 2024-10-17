@@ -5,7 +5,7 @@ require 'vendor/autoload.php';
 
 use Yabetoo\Yabetoo;
 
-$yabetoo = new Yabetoo('sk_test_4WRT22f4upSTOGvTBjYqYN3ApYKmmSmVYZfT33csh8USJ76Uo2MdUoel');
+$yabetoo = new Yabetoo('');
 
 try {
     // Exemple d'utilisation : Créer un paiement
