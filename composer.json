@@ -1,0 +1,22 @@
+{
+    "name": "yabetoo/yabetoo-php",
+    "description": "PHP SDK for Yabetoo payment API",
+    "keywords": ["yabetoo", "payment", "sdk", "php"],
+    "type": "library",
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yabetoo\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yabetoo",
+            "email": "support@yabetoo.com"
+        }
+    ]
+}
